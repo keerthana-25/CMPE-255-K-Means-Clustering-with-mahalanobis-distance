@@ -35,9 +35,3 @@ Recorded walkthrough:
 👉 [YouTube video link](https://youtu.be/8_eLFUBenMA)
 
 ---
-
-## 🧠 **Method Summary**
-This approach differs from standard K-means in two ways:
-
-### 1. Joint Learning
-Instead of:
