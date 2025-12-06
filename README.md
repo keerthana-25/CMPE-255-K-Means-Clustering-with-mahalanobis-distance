@@ -28,7 +28,7 @@ A detailed article summarizing the paper, the intuition behind the method, and r
 ---
 
 ## 🎥 **Slides & Video**
-Presentation slides (.pdf/.ppt):  
+Presentation slides:  
 👉 [K-Means Clustering With Missing Data - Using Mahalanobis Distance](https://www.slideshare.net/slideshow/k-means-clustering-with-missing-data-pptx-f5ea/284502499) 
 
 Recorded walkthrough:  
